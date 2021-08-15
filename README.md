@@ -1,2 +1,2 @@
-# Cognito_Python
+# Cognito Python
 Cognito with Python
